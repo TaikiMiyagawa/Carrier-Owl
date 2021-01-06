@@ -4,22 +4,26 @@ subject: 'cat:cs.* OR stat.ML OR stat.TH'
 # 検索キーワード
 keywords:
         SPRT: 10
+        sequential probability hypothesis test: 10
+        sequential probability hypothesis testing: 10
         sequential hypothesis testing: 10
         sequential hypothesis test: 10
-        hypothesis test: 5
-        hypothesis testing: 5
+        active hypothesis testing: 3
+        active hypothesis test: 3
+        hypothesis test: 3
+        hypothesis testing: 3
         density ratio estimation: 10
-        density estimation: 5
+        density estimation: 3
         early classification: 10
         early time series classification: 10
-        few-shot: 2
+        few-shot: 1
         class imbalance: 2
         class-imbalance: 2
         long-tail: 2
         long tail: 2
         face recognition: 2
         metric learning: 2
-        large margin: 2
+        large margin: 1
         time series: 1
         time-series: 1
         time series classification: 1
@@ -30,6 +34,10 @@ keywords:
         continual: 1
         lifelong: 1
         incremental: 1
+        changepoint: 1
+        change-point: 1
+        change point: 1
+        deep: 1
 
 # 通知の閾値
 score_threshold: 2
