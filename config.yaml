@@ -18,6 +18,7 @@ keywords:
         early time series classification: 10
         early detection: 10
         early text classification: 10
+        early text categorization: 10
         early gesture: 10
         few-shot: 1
         class imbalance: 2
