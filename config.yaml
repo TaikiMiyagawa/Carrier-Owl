@@ -16,6 +16,7 @@ keywords:
         density estimation: 3
         early classification: 10
         early time series classification: 10
+        early detection: 10
         few-shot: 1
         class imbalance: 2
         class-imbalance: 2
