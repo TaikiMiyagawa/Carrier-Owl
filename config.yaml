@@ -17,6 +17,8 @@ keywords:
         early classification: 10
         early time series classification: 10
         early detection: 10
+        early text classification: 10
+        early gesture: 10
         few-shot: 1
         class imbalance: 2
         class-imbalance: 2
@@ -29,8 +31,9 @@ keywords:
         time-series: 1
         time series classification: 1
         time-series classification: 1
+        text classification: 1
         phase: 1
-        early: 1
+        early: 2
         catastrophic forgetting: 2
         continual: 1
         lifelong: 1
@@ -39,6 +42,7 @@ keywords:
         change-point: 1
         change point: 1
         deep: 1
+        recognition: 1
 
 # 通知の閾値
 score_threshold: 2
