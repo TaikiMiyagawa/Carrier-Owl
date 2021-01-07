@@ -20,6 +20,7 @@ keywords:
         early text classification: 10
         early text categorization: 10
         early gesture: 10
+        early depression: 10
         few-shot: 1
         class imbalance: 2
         class-imbalance: 2
