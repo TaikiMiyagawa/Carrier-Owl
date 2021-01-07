@@ -22,10 +22,10 @@ keywords:
         early gesture: 10
         early depression: 10
         few-shot: 1
-        class imbalance: 2
-        class-imbalance: 2
-        long-tail: 2
-        long tail: 2
+        class imbalance: 3
+        class-imbalance: 3
+        long-tail: 3
+        long tail: 3
         face recognition: 2
         metric learning: 2
         large margin: 1
