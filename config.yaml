@@ -39,6 +39,8 @@ keywords:
         text classification: 1
         phase: 1
         early: 2
+        earlier: 2
+        earliest: 2
         catastrophic forgetting: 2
         continual: 1
         lifelong: 1
