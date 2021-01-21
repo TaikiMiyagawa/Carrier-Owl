@@ -25,6 +25,8 @@ keywords:
         early exiting: 10
         overthinking: 10
         reject option: 5
+        reject options
+        reject-option: 5
         with rejection: 5
         abstain: 5
         abstaining: 5
@@ -51,10 +53,9 @@ keywords:
         continual: 1
         lifelong: 1
         incremental: 1
-        changepoint: 1
-        change-point: 1
-        change point: 1
-        recognition: 1
+        changepoint: 3
+        change-point: 3
+        change point: 3
 
 # 通知の閾値
 score_threshold: 3
