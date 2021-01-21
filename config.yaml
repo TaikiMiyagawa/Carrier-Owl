@@ -24,6 +24,12 @@ keywords:
         early exit: 10
         early exiting: 10
         overthinking: 10
+        reject option: 5
+        with rejection: 5
+        abstain: 5
+        abstaining: 5
+        abstention: 5
+        selective classification: 5
         few-shot: 1
         class imbalance: 3
         class-imbalance: 3
