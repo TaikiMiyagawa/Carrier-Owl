@@ -49,6 +49,7 @@ keywords:
         early: 2
         earlier: 2
         earliest: 2
+        earliness: 2
         catastrophic forgetting: 2
         continual: 1
         lifelong: 1
