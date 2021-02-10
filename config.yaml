@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.* OR cat:stat.* OR cat:physics.* OR cat:math.*'
+subject: 'cat:cs.* OR cat:stat.* OR cat:math.*'
 
 # 検索キーワード
 keywords:
